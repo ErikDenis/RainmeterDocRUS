@@ -8,6 +8,7 @@ Rainmeter Документация на русском!
 
 	contents/get_start/index
 
+
 .. toctree::
 	:maxdepth:1
 	:caption:Справочник
