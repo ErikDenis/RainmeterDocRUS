@@ -98,6 +98,13 @@ highlight_language = 'ini'
 
 
 # VCS options: https://docs.readthedocs.io/en/latest/vcs.html#github
+
+# -- Options for HTML output ----------------------------------------------
+
+# The theme to use for HTML and HTML Help pages.  See the documentation for
+# a list of builtin themes.
+html_theme = 'default'
+
 html_context = {
     # "display_github": not is_i18n, # Integrate GitHub
     # "github_user": "godotengine", # Username
@@ -106,20 +113,15 @@ html_context = {
     # "conf_py_path": "/", # Path in the checkout to the docs root
 }
 
-# -- Options for HTML output ----------------------------------------------
-
-# The theme to use for HTML and HTML Help pages.  See the documentation for
-# a list of builtin themes.
-html_theme = 'default'
-
 # Theme options are theme-specific and customize the look and feel of a theme
 # further.  For a list of options available for each theme, see the
 # documentation.
 html_theme_options = {
     # 'typekit_id': 'hiw1hhg',
     # 'analytics_id': '',
-    'sticky_navigation': False  # Set to False to disable the sticky nav while scrolling.
-    'logo_only': False,  # if we have a html_logo below, this shows /only/ the logo with no title text
+    'prev_next_buttons_location': 'both',
+    'sticky_navigation': False,  # Set to False to disable the sticky nav while scrolling.
+    'logo_only': True,  # if we have a html_logo below, this shows /only/ the logo with no title text
     'collapse_navigation': False,  # Collapse navigation (False makes it tree-like)
     'display_version': False,  # Display the docs version
     'navigation_depth': 4,  # Depth of the headers shown in the navigation bar
