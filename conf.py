@@ -106,11 +106,10 @@ highlight_language = 'ini'
 import sphinx_rtd_theme
 html_theme = 'sphinx_rtd_theme'
 html_theme_path = [sphinx_rtd_theme.get_html_theme_path()]
-if on_rtd:
-  using_rtd_theme = True
+using_rtd_theme = True
 
 html_context = {
-# "display_github": not is_i18n, # Integrate GitHub
+  # "display_github": not is_i18n, # Integrate GitHub
   "github_user": "ErikDenis", # Username
   "github_repo": "RainmeterDocRus", # Repo name
   "github_version": "master", # Version
