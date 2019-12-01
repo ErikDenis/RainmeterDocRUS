@@ -131,12 +131,12 @@ html_theme_options = {
 
 # The name of an image file (relative to this directory) to place at the top
 # of the sidebar.
-html_logo = '.img/Logo.png'
+html_logo = 'img/Logo.png'
 
 # The name of an image file (within the static path) to use as favicon of the
 # docs.  This file should be a Windows icon file (.ico) being 16x16 or 32x32
 # pixels large.
-html_favicon = '.img/Icon.ico'
+html_favicon = 'img/Icon.ico'
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
@@ -190,7 +190,7 @@ html_static_path = ['_static']
 #html_file_suffix = None
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'ReadtheDocsTemplatedoc'
+htmlhelp_basename = 'ruRainmeterdoc'
 
 
 # -- Options for LaTeX output ---------------------------------------------
@@ -210,8 +210,8 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-  ('index', 'ReadtheDocsTemplate.tex', u'Read the Docs Template Documentation',
-   u'Read the Docs', 'manual'),
+  ('index', 'RainmeterDoc.tex', 'Russian Rainmeter Documentation',
+   'Rainmeter (translate by ErikDenis)', 'manual'),
 ]
 
 # The name of an image file (relative to this directory) to place at the top of
