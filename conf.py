@@ -106,25 +106,25 @@ highlight_language = 'ini'
 html_theme = 'default'
 
 html_context = {
-    # "display_github": not is_i18n, # Integrate GitHub
-    "github_user": "ErikDenis", # Username
-    "github_repo": "RainmeterDocRus", # Repo name
-    "github_version": "master", # Version
-    "conf_py_path": "/", # Path in the checkout to the docs root
+  # "display_github": not is_i18n, # Integrate GitHub
+  "github_user": "ErikDenis", # Username
+  "github_repo": "RainmeterDocRus", # Repo name
+  "github_version": "master", # Version
+  "conf_py_path": "/", # Path in the checkout to the docs root
 }
 
 # Theme options are theme-specific and customize the look and feel of a theme
 # further.  For a list of options available for each theme, see the
 # documentation.
 html_theme_options = {
-    # 'typekit_id': 'hiw1hhg',
-    # 'analytics_id': '',
-    'prev_next_buttons_location': 'both',
-    'sticky_navigation': False,  # Set to False to disable the sticky nav while scrolling.
-    'logo_only': True,  # if we have a html_logo below, this shows /only/ the logo with no title text
-    'collapse_navigation': True,  # Collapse navigation (False makes it tree-like)
-    'display_version': False,  # Display the docs version
-    'navigation_depth': 4,  # Depth of the headers shown in the navigation bar
+  # 'typekit_id': 'hiw1hhg',
+  # 'analytics_id': '',
+  'prev_next_buttons_location': 'both',
+  'sticky_navigation': False,  # Set to False to disable the sticky nav while scrolling.
+  'logo_only': True,  # if we have a html_logo below, this shows /only/ the logo with no title text
+  'collapse_navigation': False,  # Collapse navigation (False makes it tree-like)
+  'display_version': False,  # Display the docs version
+  'navigation_depth': 4,  # Depth of the headers shown in the navigation bar
 }
 
 # Add any paths that contain custom themes here, relative to this directory.
@@ -249,8 +249,8 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    ('index', 'readthedocstemplate', u'Read the Docs Template Documentation',
-     [u'Read the Docs'], 1)
+  ('index', 'readthedocstemplate', u'Read the Docs Template Documentation',
+    [u'Read the Docs'], 1)
 ]
 
 # If true, show URL addresses after external links.
@@ -264,8 +264,8 @@ man_pages = [
 #  dir menu entry, description, category)
 texinfo_documents = [
   ('index', 'ReadtheDocsTemplate', u'Read the Docs Template Documentation',
-   u'Read the Docs', 'ReadtheDocsTemplate', 'One line description of project.',
-   'Miscellaneous'),
+    u'Read the Docs', 'ReadtheDocsTemplate', 'One line description of project.',
+    'Miscellaneous'),
 ]
 
 # Documents to append as an appendix to all manuals.
