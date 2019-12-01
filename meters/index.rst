@@ -2,7 +2,7 @@ Meter
 ====
 
 .. toctree::
-	:maxdepth: 1
+	:maxdepth: 2
 	:name: subsec-meters
 
 	meter_string
