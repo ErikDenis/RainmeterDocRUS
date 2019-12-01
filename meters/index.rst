@@ -3,7 +3,7 @@ Meter
 
 .. toctree::
 	:maxdepth:2
-	:name:sec-meters
+	:name:toc-meters
 
 	meter_string
 	meter_image

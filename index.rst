@@ -4,7 +4,7 @@ Rainmeter Документация на русском!
 .. toctree::
 	:maxdepth:1
 	:caption:Оглавление
-	:name:contents
+	:name:sec-contents
 
 	contents/get_start/index
 
@@ -12,6 +12,6 @@ Rainmeter Документация на русском!
 .. toctree::
 	:maxdepth:1
 	:caption:Справочник
-	:name:reference
+	:name:sec-reference
 
 	meters/index
