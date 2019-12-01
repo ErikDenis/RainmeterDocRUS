@@ -5,4 +5,5 @@ Rainmeter Документация на русском!
 
 .. toctree::
 	:maxdepth: 4
-	:global:
+	
+	metersssss
