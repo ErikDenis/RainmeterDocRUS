@@ -1,11 +1,16 @@
 Rainmeter Документация на русском!
 ====
 
-Оглавление:
+.. toctree::
+	:maxdepth:1
+	:caption:Оглавление
+	:name:contents
+
+	contents/get_start/index
 
 .. toctree::
-	:maxdepth: 3
-	:caption: Справочник
-	:name: sec-reference
+	:maxdepth:1
+	:caption:Справочник
+	:name:reference
 
 	meters/index
