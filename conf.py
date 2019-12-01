@@ -118,7 +118,7 @@ html_theme = 'default'
 html_theme_options = {
     # 'typekit_id': 'hiw1hhg',
     # 'analytics_id': '',
-    # 'sticky_navigation': True  # Set to False to disable the sticky nav while scrolling.
+    'sticky_navigation': False  # Set to False to disable the sticky nav while scrolling.
     'logo_only': False,  # if we have a html_logo below, this shows /only/ the logo with no title text
     'collapse_navigation': False,  # Collapse navigation (False makes it tree-like)
     'display_version': False,  # Display the docs version
