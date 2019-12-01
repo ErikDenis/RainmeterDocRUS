@@ -107,10 +107,10 @@ html_theme = 'default'
 
 html_context = {
     # "display_github": not is_i18n, # Integrate GitHub
-    # "github_user": "godotengine", # Username
-    # "github_repo": "godot-docs", # Repo name
+    "github_user": "ErikDenis", # Username
+    "github_repo": "RainmeterDocRus", # Repo name
     "github_version": "master", # Version
-    # "conf_py_path": "/", # Path in the checkout to the docs root
+    "conf_py_path": "/", # Path in the checkout to the docs root
 }
 
 # Theme options are theme-specific and customize the look and feel of a theme
