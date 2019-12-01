@@ -5,5 +5,13 @@ Meter
 	:maxdepth:2
 	:name:toc-meters
 
-	meter_string
+	-
+	-
+	-
+	-
 	meter_image
+	-
+	-
+	-
+	-
+	meter_string
