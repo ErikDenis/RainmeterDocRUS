@@ -46,6 +46,7 @@ master_doc = 'index'
 project = u'Rainmeter Документация'
 copyright = u'Rainmeter (translate by ErikDenis)'
 
+
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
 # built documents.
@@ -86,6 +87,7 @@ exclude_patterns = ['_build']
 
 # The name of the Pygments (syntax highlighting) style to use.
 pygments_style = 'sphinx'
+highlight_language = 'ini'
 
 # A list of ignored prefixes for module index sorting.
 #modindex_common_prefix = []
