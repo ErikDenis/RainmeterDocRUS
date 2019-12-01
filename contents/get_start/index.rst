@@ -1,9 +1,6 @@
-Начало Работы
-====
-
 .. toctree::
-	:maxdepth:2
-	:caption:Начало Работы
-	:name:toc-get_start
+	:maxdepth: 2
+	:caption: Начало Работы
+	:name: toc-get_start
 
 	setup
