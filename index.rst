@@ -1,10 +1,6 @@
 Rainmeter Документация на русском!
 ====
 
-1
-2
-3
-
 .. toctree::
 	:maxdepth: 1
 	:caption: Оглавление 
