@@ -8,4 +8,4 @@ Rainmeter Документация на русском!
 	:caption: Справочник
 	:name: sec-reference
 
-	Meters/index
+	meters/index
