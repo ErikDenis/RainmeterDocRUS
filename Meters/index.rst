@@ -6,3 +6,4 @@ Meter String (Строка)
 	:name: subsec-meters
 
 	meter_string
+	meter_image
