@@ -2,5 +2,8 @@ Meter String (Строка)
 ====
 
 .. toctree::
-	
-	metersssss
+	:maxdepth:2
+	:caption:Meters
+	:name:subsec-meters
+
+	meter_string

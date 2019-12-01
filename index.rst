@@ -4,6 +4,8 @@ Rainmeter Документация на русском!
 Оглавление:
 
 .. toctree::
-	:maxdepth: 4
-	
-	metersssss
+	:maxdepth:3
+	:caption:Справочник
+	:name:sec-reference
+
+	Meters/index
