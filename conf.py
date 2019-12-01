@@ -96,6 +96,16 @@ highlight_language = 'ini'
 #keep_warnings = False
 
 
+
+# VCS options: https://docs.readthedocs.io/en/latest/vcs.html#github
+html_context = {
+    # "display_github": not is_i18n, # Integrate GitHub
+    # "github_user": "godotengine", # Username
+    # "github_repo": "godot-docs", # Repo name
+    "github_version": "master", # Version
+    # "conf_py_path": "/", # Path in the checkout to the docs root
+}
+
 # -- Options for HTML output ----------------------------------------------
 
 # The theme to use for HTML and HTML Help pages.  See the documentation for
@@ -105,7 +115,9 @@ html_theme = 'default'
 # Theme options are theme-specific and customize the look and feel of a theme
 # further.  For a list of options available for each theme, see the
 # documentation.
-#html_theme_options = {}
+html_theme_options = {
+	'logo_only': True,  # if we have a html_logo below, this shows /only/ the logo with no title text
+}
 
 # Add any paths that contain custom themes here, relative to this directory.
 #html_theme_path = []
@@ -119,12 +131,12 @@ html_theme = 'default'
 
 # The name of an image file (relative to this directory) to place at the top
 # of the sidebar.
-#html_logo = None
+html_logo = '.img/Logo.png'
 
 # The name of an image file (within the static path) to use as favicon of the
 # docs.  This file should be a Windows icon file (.ico) being 16x16 or 32x32
 # pixels large.
-#html_favicon = None
+html_favicon = '.img/Icon.ico'
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
