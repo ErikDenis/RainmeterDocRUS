@@ -1,4 +1,4 @@
-Meter String (Строка)
+Meter
 ====
 
 .. toctree::
