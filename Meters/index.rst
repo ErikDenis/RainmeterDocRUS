@@ -1,7 +1,7 @@
 .. _doc_meters:
 
 Meters
-==
+====
 
 .. toctree::
 	:maxdepth:3
