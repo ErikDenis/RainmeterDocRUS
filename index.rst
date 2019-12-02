@@ -1,9 +1,7 @@
 Rainmeter Документация на русском!
 ====
 
-Здрасте. Это документация по программе "[Rainmeter](https://rainmeter.net)" последней версии ( {{ final_release_version }} ). Она была переведена, дополнена и перефразирована с [официальной документации](https://docs.rainmeter.net/manual)
-
-<li></a>{{final_release_version}}</a></li>
+Здрасте. Это документация по программе "`Rainmeter<https://rainmeter.net>`" последней версии (4.3.1). Она была переведена, дополнена и перефразирована с [официальной документации](https://docs.rainmeter.net/manual)
 
 .. toctree::
 	:maxdepth: 1
