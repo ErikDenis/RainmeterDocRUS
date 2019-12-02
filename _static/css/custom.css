@@ -1,3 +1,8 @@
-div.rst-versions.shift-up {
+/*div.rst-versions.shift-up {
 	overflow-y: hidden;
+}*/
+
+html
+{
+	font-size: 20px;
 }
