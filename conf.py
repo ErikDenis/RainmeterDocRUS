@@ -107,9 +107,6 @@ import sphinx_rtd_theme
 html_theme = 'sphinx_rtd_theme'
 html_theme_path = [sphinx_rtd_theme.get_html_theme_path()]
 using_rtd_theme = True
-html_style = 'custom.css'
-
-html_css_files = ['custom.css']
 
 html_context = {
   # "display_github": not is_i18n, # Integrate GitHub
