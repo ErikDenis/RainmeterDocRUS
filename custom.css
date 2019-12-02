@@ -1,6 +1,4 @@
 @import '../alabaster.css';
 
-body {
-	.wy-side-nav-search input[type=text]{border-radius:5px;border-color:#ffffff00;}
-	input[type=text]{box-shadow:none;font-size:100%;}
-}
+.wy-side-nav-search input[type=text]{border-radius:5px;border-color:#ffffff00;},
+input[type=text]{box-shadow:none;font-size:100%;}
