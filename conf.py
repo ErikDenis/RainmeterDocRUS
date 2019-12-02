@@ -114,7 +114,6 @@ html_context = {
   "github_repo": "RainmeterDocRus", # Repo name
   "github_version": "master", # Version
   "conf_py_path": "/", # Path in the checkout to the docs root
-  "final_release_version": "4.3.1",
 }
 
 # Theme options are theme-specific and customize the look and feel of a theme
@@ -131,9 +130,6 @@ html_theme_options = {
   'display_version': False,  # Display the docs version
   'navigation_depth': 4,  # Depth of the headers shown in the navigation bar
 }
-
-# Add any paths that contain custom themes here, relative to this directory.
-#html_theme_path = []
 
 # The name for this set of Sphinx documents.  If None, it defaults to
 # "<project> v<release> documentation".
@@ -157,7 +153,7 @@ html_favicon = 'img/Icon.ico'
 # so a file named "default.css" will overwrite the builtin "default.css".
 html_static_path = ['_static']
 
-html_css_files = ['_static/css/custom.css']
+html_css_files = ['css/custom.css']
 
 # Add any extra paths that contain custom files (such as robots.txt or
 # .htaccess) here, relative to this directory. These files are copied
