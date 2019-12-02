@@ -1,13 +1,14 @@
 @import '../alabaster.css';
 /*@import 'theme.css';*/
 
-input[type=text],
-.wy-side-nav-search {
+.wy-side-nav-search input[type=text]
+{
 	border-radius:5px;
 	border-color:#ffffff00;
 }
 
-input[type=text] {
+input[type=text]
+{
 	box-shadow:none;
 	font-size:100%;
 }
