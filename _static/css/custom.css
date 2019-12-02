@@ -1,5 +1,10 @@
 .rst-versions.shift-up{height:auto;max-height:100%;overflow-y:hidden}
 
+.wy-menu-vertical {
+    /* Account for the increased `toctree-expand` button margins */
+    width: 320px;
+}
+
 /*html
 {
 	font-size: 20px;
