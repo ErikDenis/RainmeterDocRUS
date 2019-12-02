@@ -114,6 +114,7 @@ html_context = {
   "github_repo": "RainmeterDocRus", # Repo name
   "github_version": "master", # Version
   "conf_py_path": "/", # Path in the checkout to the docs root
+  "final_release_version": "4.3.1",
 }
 
 # Theme options are theme-specific and customize the look and feel of a theme
