@@ -122,6 +122,7 @@ html_context = {
 html_theme_options = {
   # 'typekit_id': 'hiw1hhg',
   # 'analytics_id': '',
+  'style_nav_search_border-color': '#ffffff00',
   'style_nav_header_background': '#123a6f',
   'prev_next_buttons_location': 'both',
   'sticky_navigation': False,  # Set to False to disable the sticky nav while scrolling.
