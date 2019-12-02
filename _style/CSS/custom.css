@@ -1,10 +1,4 @@
 @import '../alabaster.css';
 /*@import 'theme.css';*/
 
-body
-{
-	.wy-side-nav-search img
-	{
-		padding:0;
-	}
-}
+.wy-side-nav-search img{padding:0;}
