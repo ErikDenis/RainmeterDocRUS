@@ -1,14 +1,10 @@
 @import '../alabaster.css';
 /*@import 'theme.css';*/
 
-.wy-side-nav-search input[type=text]
+body
 {
-	border-radius:5px;
-	border-color:#ffffff00;
-}
-
-input[type=text]
-{
-	box-shadow:none;
-	font-size:100%;
+	.wy-side-nav-search img
+	{
+		padding:0;
+	}
 }
