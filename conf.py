@@ -107,6 +107,9 @@ import sphinx_rtd_theme
 html_theme = 'sphinx_rtd_theme'
 html_theme_path = [sphinx_rtd_theme.get_html_theme_path()]
 using_rtd_theme = True
+html_style = 'custom.css'
+
+html_css_files = ['custom.css']
 
 html_context = {
   # "display_github": not is_i18n, # Integrate GitHub
@@ -122,7 +125,6 @@ html_context = {
 html_theme_options = {
   # 'typekit_id': 'hiw1hhg',
   # 'analytics_id': '',
-  'style_nav_search_border-color': '#ffffff00',
   'style_nav_header_background': '#123a6f',
   'prev_next_buttons_location': 'both',
   'sticky_navigation': False,  # Set to False to disable the sticky nav while scrolling.
