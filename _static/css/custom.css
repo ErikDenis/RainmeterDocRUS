@@ -1,18 +1,18 @@
 /*		Меню слева		*/
-
-.wy-side-nav-search
-{
-	border-radius: 0 0 5px;
-}
+/**/
+/*.wy-side-nav-search*/
+/*{*/
+/*	border-radius: 0 0 5px;*/
+/*}*/
 
 	/*	Лого картинка-кнопка	*/
-.wy-side-nav-search>a img.logo,
-.wy-side-nav-search
-.wy-dropdown>a img.logo
-{
-	margin: -5px 0px -5px;
+/*.wy-side-nav-search>a img.logo,*/
+/*.wy-side-nav-search*/
+/*.wy-dropdown>a img.logo*/
+/*{*/
+/*	margin: -5px 0px -5px;*/
 
-}
+/*}*/
 
 	/*	Поиск	*/
 .wy-side-nav-search input[type=text]
@@ -59,12 +59,13 @@ input[type="text"]
 	/*	Нижняя фигня (которая вылезает)	*/
 .rst-versions.shift-up
 {
-	overflow-y:hidden
+	overflow-y:hidden;
 }
 
 
 	/*	Ниджняя фигня (которая реклама (вроде))	*/
-.ethical-dark-theme .ethical-sidebar {
+.ethical-dark-theme
+.ethical-sidebar {
     background-color: white;
     border: 0;
     color: #1f1c1c;
