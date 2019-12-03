@@ -2,7 +2,7 @@
 
 .wy-side-nav-search
 {
-	border-radius: 0 0 5px;
+	border-radius: 0 0 10px;
 }
 
 	/*	Лого картинка-кнопка	*/
@@ -23,12 +23,6 @@ input[type="text"]
 	box-shadow: none;
 }
 
-	/*	Цвет фона	*/
-.wy-nav-side
-{
-	background: white;
-}
-
 	/*	Древо страниц	*/
 .wy-menu-vertical
 {
@@ -47,5 +41,23 @@ input[type="text"]
 	/*	Нижняя фигня (которая вылезает)	*/
 .rst-versions.shift-up
 {
+	border-radius: 0 10px 0 0
 	overflow-y:hidden;
+}
+.rst-versions .rst-other-versions dd a
+{
+	color: #404040;
+}
+.rst-versions .rst-other-versions hr
+{
+	margin: 5px 5px 10px;
+}
+
+
+/*		Белый фон		*/
+.wy-nav-content,	/*	Страцницы (справа)	*/
+.rst-versions,		/*	Нижняя фигня		*/
+.wy-nav-side,		/*	Меню (слева)		*/
+{
+	background-color: white;
 }
