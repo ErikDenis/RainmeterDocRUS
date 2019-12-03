@@ -44,13 +44,6 @@ input[type="text"]
     font-weight: bold;
 }
 
-.wy-menu-vertical li.on a,
-.wy-menu-vertical li.current>a
-{
-	background: none;
-	border: none;
-}
-
 	/*	Нижняя фигня (которая вылезает)	*/
 .rst-versions.shift-up
 {
