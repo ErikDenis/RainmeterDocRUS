@@ -6,7 +6,9 @@
 }
 
 	/*	Лого картинка-кнопка	*/
-.wy-side-nav-search>a img.logo, .wy-side-nav-search .wy-dropdown>a img.logo
+.wy-side-nav-search>a img.logo,
+.wy-side-nav-search
+.wy-dropdown>a img.logo
 {
 	margin: -5px 0px -5px;
 
