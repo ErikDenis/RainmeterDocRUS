@@ -53,6 +53,10 @@ input[type="text"]
 	margin: 5px 5px 10px;
 }
 
+.rst-versions .rst-current-version
+{
+	border-radius: 0 10px 0 0; 
+}
 
 /*		Белый фон		*/
 .wy-nav-content,	/*	Страцницы (справа)	*/
