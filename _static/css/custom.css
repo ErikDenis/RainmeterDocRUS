@@ -41,7 +41,11 @@ input[type="text"]
 	/*	Нижняя фигня (которая вылезает)	*/
 .rst-versions.shift-up
 {
-	border-radius: 0 10px 0 0
+	border-radius: 0 10px 0 0;
+}
+.rst-versions.shift-up
+.wy-side-scroll
+{
 	overflow-y:hidden;
 }
 .rst-versions .rst-other-versions dd a
@@ -59,9 +63,9 @@ input[type="text"]
 }
 
 /*		Белый фон		*/
-.wy-nav-content,	/*	Страцницы (справа)	*/
-.rst-versions,		/*	Нижняя фигня		*/
-.wy-nav-side,		/*	Меню (слева)		*/
+.wy-nav-content	/*	Страцницы (справа)	*/
+.rst-versions		/*	Нижняя фигня		*/
+.wy-nav-side		/*	Меню (слева)		*/
 {
 	background-color: white;
 }
