@@ -91,7 +91,10 @@ a .fa, a .wy-menu-vertical li span.toctree-expand, .wy-menu-vertical li a span.t
 }
 /*		Белый фон									*/
 nav.wy-nav-side,				/*	Меню (слева)	*/
-.rst-versions
+.rst-versions,
+.wy-menu-vertical li.toctree-l2 a,
+.wy-menu-vertical li.toctree-l3 a,
+.wy-menu-vertical li.toctree-l4 a
 {
 	background: #fcfcfc;
 }
