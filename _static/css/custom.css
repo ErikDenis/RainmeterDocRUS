@@ -25,29 +25,12 @@ input[type="text"]
 }
 
 	/*	Древо страниц								*/
-.wy-menu-vertical
-{
-	position: relative;
-	left: -5px;
-}
-.wy-menu-vertical ul
-{
-	margin-left: 8%;
-}
 li {
     border-left: solid 1px gray;
-}
-.wy-menu-vertical li.current ul
-{
-	margin-left: 6%;
 }
 .wy-menu-vertical li.current
 {
 	background: none;
-}
-li
-{
-	border-left: 2px black;
 }
 
 		/*	Текст секций							*/
