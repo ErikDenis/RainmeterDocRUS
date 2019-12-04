@@ -32,7 +32,12 @@ input[type="text"]
 }
 .wy-menu-vertical ul
 {
-	margin-left: 10%;
+	margin-left: 8%;
+	border-left: solid 1px gray;
+}
+.wy-menu-vertical li.current ul
+{
+	margin-left: 6%;
 }
 .wy-menu-vertical li.current
 {
