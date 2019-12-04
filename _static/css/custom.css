@@ -28,12 +28,12 @@ input[type="text"]
 .wy-menu-vertical
 {
 	position: relative;
-	left: 15px;
-	border-left: solid 1.2px #00000070;
+	left: -5px;
 }
 .wy-menu-vertical li.current
 {
 	background: none;
+	margin: 0 0 0 10%;
 }
 li
 {
