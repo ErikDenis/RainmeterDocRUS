@@ -38,6 +38,10 @@ input[type="text"]
 	color: #7e8b8c;
     font-weight: bold;
 }
+.wy-menu-vertical a:hover
+{
+	text-decoration: underline;
+}
 
 	/*	Нижняя фигня (которая вылезает)				*/
 .rst-versions.shift-up
@@ -69,9 +73,16 @@ input[type="text"]
 	margin: 10px 0;
 }
 /*		Белый фон									*/
-nav.wy-nav-side,					/*	Меню (слева)	*/
+nav.wy-nav-side,				/*	Меню (слева)	*/
 .rst-versions,
 .rst-versions.shift-up .rst-other-versions
 {
 	background: white;
+}
+
+/*	Ссылки											*/
+a:visited
+{
+	color: rgb(41, 91, 185);
+	text-decoration: underline;
 }
