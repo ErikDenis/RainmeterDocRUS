@@ -41,6 +41,7 @@ input[type="text"]
 .wy-menu-vertical a:hover
 {
 	text-decoration: underline;
+	background: none;
 }
 
 	/*	Нижняя фигня (которая вылезает)				*/
