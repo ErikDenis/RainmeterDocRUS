@@ -1,17 +1,17 @@
-/*		Меню слева		*/
+/*		Меню слева									*/
 
 .wy-side-nav-search
 {
 	border-radius: 0 0 10px;
 }
 
-	/*	Лого картинка-кнопка	*/
+	/*	Лого картинка-кнопка						*/
 .wy-side-nav-search>a img.logo
 {
 	margin: -5px auto -10px;
 }
 
-	/*	Поиск	*/
+	/*	Поиск										*/
 .wy-side-nav-search input[type=text]
 {
 	border-radius: 5px;
@@ -21,9 +21,10 @@
 input[type="text"]
 {
 	box-shadow: none;
+	border-radius: 5px;
 }
 
-	/*	Древо страниц	*/
+	/*	Древо страниц								*/
 .wy-menu-vertical
 {
 	position: relative;
@@ -31,22 +32,18 @@ input[type="text"]
 	border-left: solid 1.2px #00000070;
 }
 
-		/*	Текст секций	*/
+		/*	Текст секций							*/
 .wy-menu-vertical a
 {
 	color: #7e8b8c;
     font-weight: bold;
 }
 
-	/*	Нижняя фигня (которая вылезает)	*/
+	/*	Нижняя фигня (которая вылезает)				*/
 .rst-versions.shift-up
 {
-	border-radius: 0 10px 0 0;
-}
-.rst-versions.shift-up
-.wy-side-scroll
-{
-	overflow-y:hidden;
+	border-radius: 0 15px 0 0;
+	overflow-y: hidden;
 }
 .rst-versions .rst-other-versions dd a
 {
@@ -59,13 +56,15 @@ input[type="text"]
 
 .rst-versions .rst-current-version
 {
-	border-radius: 0 10px 0 0; 
+	border-radius: 0 10px 10px 0; 
+	background: #123a6f;
+	margin: 0 0 -4px 0;
 }
 
-/*		Белый фон		*/
-.wy-nav-content	/*	Страцницы (справа)	*/
-.rst-versions		/*	Нижняя фигня		*/		/*	Меню (слева)		*/
-.wy-side-scroll
+/*		Белый фон									*/
+.wy-nav-content				/*	Страцницы (справа)	*/
+.rst-versions.shift-up		/*	Нижняя фигня		*/		
+nav.wy-nav-side				/*	Меню (слева)		*/
 {
 	background: white;
 }
