@@ -64,8 +64,8 @@ input[type="text"]
 
 /*		Белый фон		*/
 .wy-nav-content	/*	Страцницы (справа)	*/
-.rst-versions		/*	Нижняя фигня		*/
-.wy-nav-side		/*	Меню (слева)		*/
+.rst-versions		/*	Нижняя фигня		*/		/*	Меню (слева)		*/
+.wy-side-scroll
 {
 	background-color: white;
 }
