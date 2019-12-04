@@ -44,6 +44,10 @@ input[type="text"]
 }
 
 	/*	Нижняя фигня (которая вылезает)				*/
+.rst-versions.shift-up .rst-other-versions
+{
+	background: rgb(228, 228, 228);
+}
 .rst-versions.shift-up
 {
 	border-radius: 0 10px 0 0;
@@ -75,14 +79,6 @@ input[type="text"]
 /*		Белый фон									*/
 nav.wy-nav-side,				/*	Меню (слева)	*/
 .rst-versions,
-.rst-versions.shift-up .rst-other-versions
 {
 	background: white;
-}
-
-/*	Ссылки											*/
-a:visited
-{
-	color: rgb(41, 91, 185);
-	text-decoration: underline;
 }
