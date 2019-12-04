@@ -45,15 +45,10 @@ input[type="text"]
 	border-radius: 0 10px 0 0;
 	overflow-y: hidden;
 }
-.rst-versions
-{
-	background-color: #123a6f;
-	border-radius: 0 10px 0 0;	
-}
 .rst-versions .rst-current-version
 {
 	background-color: #123a6f;
-	margin: 0 5px -2px;
+	padding: 12px 12px 10px 12px;
 }
 .rst-versions .rst-other-versions
 {
@@ -70,6 +65,7 @@ input[type="text"]
 
 /*		Белый фон									*/
 .wy-nav-side					/*	Меню (слева)	*/
+.rst-versions
 .rst-versions.shift-up .rst-other-versions
 {
 	background: white;
