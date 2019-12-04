@@ -42,11 +42,25 @@ input[type="text"]
 	/*	Нижняя фигня (которая вылезает)				*/
 .rst-versions.shift-up
 {
+	border-radius: 0 10px 0 0;
 	overflow-y: hidden;
+}
+.rst-versions .rst-current-version
+{
+	background-color: #123a6f;
+}
+.rst-versions .rst-other-versions
+{
+	color: #123a6f;
+}
+.rst-versions .rst-other-versions dd a
+{
+	color: #404040;
 }
 
 /*		Белый фон									*/
-nav.wy-nav-side				/*	Меню (слева)		*/
+nav.wy-nav-side						/*	Меню (слева)*/
+.rst-versions .rst-current-version	/*	Нижняя фигня*/
 {
-	background: white;
+	background-color: white;
 }
