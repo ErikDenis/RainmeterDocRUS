@@ -42,28 +42,10 @@ input[type="text"]
 	/*	Нижняя фигня (которая вылезает)				*/
 .rst-versions.shift-up
 {
-	border-radius: 0 15px 0 0;
 	overflow-y: hidden;
-}
-.rst-versions .rst-other-versions dd a
-{
-	color: #404040;
-}
-.rst-versions .rst-other-versions hr
-{
-	margin: 5px 5px 10px;
-}
-
-.rst-versions .rst-current-version
-{
-	border-radius: 0 10px 10px 0; 
-	background: #123a6f;
-	margin: 0 0 -4px 0;
 }
 
 /*		Белый фон									*/
-.wy-nav-content				/*	Страцницы (справа)	*/
-.rst-versions.shift-up		/*	Нижняя фигня		*/		
 nav.wy-nav-side				/*	Меню (слева)		*/
 {
 	background: white;
