@@ -78,7 +78,7 @@ input[type="text"]
 }
 /*		Белый фон									*/
 nav.wy-nav-side,				/*	Меню (слева)	*/
-.rst-versions,
+.rst-versions
 {
 	background: white;
 }
