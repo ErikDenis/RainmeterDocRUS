@@ -67,5 +67,5 @@ input[type="text"]
 .rst-versions		/*	Нижняя фигня		*/		/*	Меню (слева)		*/
 .wy-side-scroll
 {
-	background-color: white;
+	background: white;
 }
