@@ -53,6 +53,9 @@ a .fa, a .wy-menu-vertical li span.toctree-expand, .wy-menu-vertical li a span.t
 	text-decoration: none;
 }
 
+.fa-plus-square-o:before {content: "►";}
+.fa-minus-square-o:before {content: "▼";}
+
 	/*	Нижняя фигня (которая вылезает)				*/
 .rst-versions.shift-up .rst-other-versions
 {
