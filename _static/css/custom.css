@@ -35,6 +35,10 @@ input[type="text"]
 {
 	background: none;
 }
+li
+{
+	border-left: 2px black;
+}
 
 		/*	Текст секций							*/
 .wy-menu-vertical li.current a:hover
