@@ -45,6 +45,11 @@ input[type="text"]
 	border-radius: 0 10px 0 0;
 	overflow-y: hidden;
 }
+.rst-versions
+{
+	background-color: #123a6f;
+	border-radius: 0 10px 0 0;	
+}
 .rst-versions .rst-current-version
 {
 	background-color: #123a6f;
