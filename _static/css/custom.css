@@ -48,6 +48,7 @@ input[type="text"]
 .rst-versions .rst-current-version
 {
 	background-color: #123a6f;
+	border-radius: 0 10px 10px 0;
 }
 .rst-versions .rst-other-versions
 {
@@ -59,8 +60,8 @@ input[type="text"]
 }
 
 /*		Белый фон									*/
-nav.wy-nav-side						/*	Меню (слева)*/
-.rst-versions .rst-current-version	/*	Нижняя фигня*/
+nav.wy-nav-side					/*	Меню (слева)	*/
+.rst-versions.shift-up			/*	Нижняя фигня	*/
 {
 	background-color: white;
 }
