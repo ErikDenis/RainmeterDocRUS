@@ -69,7 +69,7 @@ input[type="text"]
 }
 
 /*		Белый фон									*/
-nav.wy-nav-side					/*	Меню (слева)	*/
+.wy-nav-side					/*	Меню (слева)	*/
 .rst-versions.shift-up .rst-other-versions
 {
 	background: white;
