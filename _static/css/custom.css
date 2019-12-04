@@ -33,6 +33,10 @@ input[type="text"]
 }
 
 		/*	Текст секций							*/
+.wy-menu-vertical li.current a:hover
+{
+	background: #fcfcfc;
+}
 .wy-menu-vertical a
 {
 	color: #7e8b8c;
