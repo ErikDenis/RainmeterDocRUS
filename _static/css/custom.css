@@ -46,7 +46,7 @@ input[type="text"]
 	/*	Нижняя фигня (которая вылезает)				*/
 .rst-versions.shift-up .rst-other-versions
 {
-	background: rgb(240, 240, 240);
+	background: rgb(239, 239, 239);
 }
 .rst-versions.shift-up
 {
@@ -74,7 +74,7 @@ input[type="text"]
 }
 .rst-versions .rst-other-versions hr
 {
-	margin: 10px 0;
+	margin: 5px 0 10px 0;
 }
 /*		Белый фон									*/
 nav.wy-nav-side,				/*	Меню (слева)	*/
