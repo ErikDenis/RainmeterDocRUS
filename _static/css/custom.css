@@ -58,14 +58,15 @@ input[type="text"]
 {
 	color: #404040;
 }
-.wy-menu-vertical header, .wy-menu-vertical p.caption
+.wy-menu-vertical header,
+.wy-menu-vertical p.caption
 {
 	color: #123a6ff0;
 }
 
 /*		Белый фон									*/
-.wy-nav-side					/*	Меню (слева)	*/
-.rst-versions
+nav.wy-nav-side,					/*	Меню (слева)	*/
+.rst-versions,
 .rst-versions.shift-up .rst-other-versions
 {
 	background: white;
