@@ -30,10 +30,13 @@ input[type="text"]
 	position: relative;
 	left: -5px;
 }
+.wy-menu-vertical ul
+{
+	margin-left: 10%;
+}
 .wy-menu-vertical li.current
 {
 	background: none;
-	margin: 0 0 0 10%;
 }
 li
 {
