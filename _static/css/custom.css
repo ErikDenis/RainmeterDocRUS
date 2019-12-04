@@ -49,6 +49,7 @@ input[type="text"]
 {
 	background-color: #123a6f;
 	padding: 12px 12px 10px 12px;
+	border-radius: 0 10px 0 0;
 }
 .rst-versions .rst-other-versions
 {
@@ -63,7 +64,10 @@ input[type="text"]
 {
 	color: #123a6ff0;
 }
-
+.rst-versions .rst-other-versions hr
+{
+	margin: 10px 0;
+}
 /*		Белый фон									*/
 nav.wy-nav-side,					/*	Меню (слева)	*/
 .rst-versions,
