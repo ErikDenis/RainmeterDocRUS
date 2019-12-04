@@ -63,6 +63,10 @@ input[type="text"]
 {
 	color: #404040;
 }
+.wy-menu-vertical header, .wy-menu-vertical p.caption
+{
+	color: #123a6ff0;
+}
 
 /*		Белый фон									*/
 nav.wy-nav-side					/*	Меню (слева)	*/
