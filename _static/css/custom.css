@@ -13,6 +13,12 @@ nav.wy-nav-side, .rst-versions,
 	visibility: hidden;
 }
 
+.ethical-dark-theme .ethical-sidebar {
+    background-color: #fcfcfc;
+    border: none;
+    box-shadow: inset 0 0 10px -4px black;
+}
+
 .wy-side-scroll
 {
 	width: 337px;
