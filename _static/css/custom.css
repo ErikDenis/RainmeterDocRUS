@@ -76,7 +76,8 @@ a .fa, a .wy-menu-vertical li span.toctree-expand, .wy-menu-vertical li a span.t
 	padding: 12px 12px 10px 12px;
 	border-radius: 0 10px 0 0;
 }
-.rst-versions .rst-other-versions
+.rst-versions .rst-other-versions,
+.wy-nav-top
 {
 	color: #123a6f;
 }
@@ -102,3 +103,12 @@ nav.wy-nav-side,				/*	Меню (слева)	*/
 {
 	background: #fcfcfc;
 }
+.wy-nav-top
+{
+ background-color: #123a6f;
+}
+
+
+
+
+
