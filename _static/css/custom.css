@@ -1,8 +1,14 @@
 /*		Меню слева									*/
 
+nav.wy-nav-side, .rst-versions, .wy-menu-vertical li.toctree-l2 a, .wy-menu-vertical li.toctree-l3 a, .wy-menu-vertical li.toctree-l4 a
+{
+    width: 320px;
+}
+
 .wy-side-nav-search
 {
 	border-radius: 0 0 10px;
+	width: 320px;
 }
 
 	/*	Лого картинка-кнопка						*/
@@ -112,7 +118,7 @@ a .rst-content code.download span:first-child,
 .rst-versions .rst-current-version
 {
 	background-color: #123a6f;
-	padding: 12px 12px 10px 12px;
+	padding: 9px 8px 6px 8px;
 	border-radius: 0 10px 0 0;
 }
 
