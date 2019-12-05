@@ -129,8 +129,14 @@ ntent: "►";}
 	padding: 12px 12px 10px 12px;
 	border-radius: 0 10px 0 0;
 }
-.rst-versions .rst-other-versions,
+
 .wy-nav-top
+{
+	background: #123a6f;
+	color: white;
+}
+
+.rst-versions .rst-other-versions,
 {
 	color: #123a6f;
 }
