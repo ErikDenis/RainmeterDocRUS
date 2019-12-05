@@ -29,11 +29,15 @@ input[type="text"]
 {
 	background: none;
 }
-.wy-menu-vertical ul {
+
+.wy-menu-vertical ul
+{
     margin-left: 8%;
     border-left: solid 1px gray;
 }
-.wy-menu-vertical li.current ul {
+
+.wy-menu-vertical li.current ul
+{
     display: block;
     margin-left: 5%;
     border-left: solid 1px gray;
