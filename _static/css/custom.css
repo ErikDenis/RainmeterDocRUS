@@ -86,6 +86,7 @@ input[type="text"]
 {
 	border-top: none;
 	border-bottom: none ;
+	color: #123a6f;
 	border-left: solid 3px #123a6f;
 }
 
