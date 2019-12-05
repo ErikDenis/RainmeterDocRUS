@@ -8,6 +8,11 @@ nav.wy-nav-side, .rst-versions,
     width: 320px;
 }
 
+.wy-nav-side .ethical-rtd
+{
+	visibility: hidden;
+}
+
 .wy-side-scroll
 {
 	width: 337px;
