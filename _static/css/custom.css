@@ -48,28 +48,52 @@ input[type="text"]
 {
 	background: #fcfcfc;
 }
+
 .wy-menu-vertical a
 {
 	color: #7e8b8c;
     font-weight: bold;
 }
+
 .wy-menu-vertical a:hover
 {
 	text-decoration: underline;
 	background: none;
 }
+
 .wy-menu-vertical li.toctree-l1.current>a
 {
 	border-top: none;
 	border-bottom: none ;
 }
-a .fa, a .wy-menu-vertical li span.toctree-expand, .wy-menu-vertical li a span.toctree-expand, .wy-menu-vertical li.on a span.toctree-expand, .wy-menu-vertical li.current>a span.toctree-expand, a .rst-content .admonition-title, .rst-content a .admonition-title, a .rst-content h1 .headerlink, .rst-content h1 a .headerlink, a .rst-content h2 .headerlink, .rst-content h2 a .headerlink, a .rst-content h3 .headerlink, .rst-content h3 a .headerlink, a .rst-content h4 .headerlink, .rst-content h4 a .headerlink, a .rst-content h5 .headerlink, .rst-content h5 a .headerlink, a .rst-content h6 .headerlink, .rst-content h6 a .headerlink, a .rst-content dl dt .headerlink, .rst-content dl dt a .headerlink, a .rst-content p.caption .headerlink, .rst-content p.caption a .headerlink, a .rst-content table>caption .headerlink, .rst-content table>caption a .headerlink, a .rst-content .code-block-caption .headerlink, .rst-content .code-block-caption a .headerlink, a .rst-content tt.download span:first-child, .rst-content tt.download a span:first-child, a .rst-content code.download span:first-child, .rst-content code.download a span:first-child, a .icon
+
+a .fa, a .wy-menu-vertical li span.toctree-expand,
+.wy-menu-vertical li a span.toctree-expand,
+.wy-menu-vertical li.on a span.toctree-expand,
+.wy-menu-vertical li.current>a span.toctree-expand,
+a .rst-content .admonition-title, .rst-content a .admonition-title,
+a .rst-content h1 .headerlink, .rst-content h1 a .headerlink,
+a .rst-content h2 .headerlink, .rst-content h2 a .headerlink,
+a .rst-content h3 .headerlink, .rst-content h3 a .headerlink,
+a .rst-content h4 .headerlink, .rst-content h4 a .headerlink,
+a .rst-content h5 .headerlink, .rst-content h5 a .headerlink,
+a .rst-content h6 .headerlink, .rst-content h6 a .headerlink,
+a .rst-content dl dt .headerlink, .rst-content dl dt a .headerlink,
+a .rst-content p.caption .headerlink, .rst-content p.caption a .headerlink,
+a .rst-content table>caption .headerlink, .rst-content table>caption a .headerlink,
+a .rst-content .code-block-caption .headerlink,
+.rst-content .code-block-caption a .headerlink,
+a .rst-content tt.download span:first-child,
+.rst-content tt.download a span:first-child,
+a .rst-content code.download span:first-child,
+.rst-content code.download a span:first-child, a .icon
 {
 	text-decoration: none;
 }
 
 .fa-plus-square-o:before, .wy-menu-vertical li span.toctree-expand:before
 {content: "►";}
+
 .fa-minus-square-o:before, .wy-menu-vertical li.on a span.toctree-expand:before, .wy-menu-vertical li.current>a span.toctree-expand:before
 {content: "▼";}
 
@@ -78,11 +102,13 @@ a .fa, a .wy-menu-vertical li span.toctree-expand, .wy-menu-vertical li a span.t
 {
 	background: rgb(239, 239, 239);
 }
+
 .rst-versions.shift-up
 {
 	border-radius: 0 10px 0 0;
 	overflow-y: hidden;
 }
+
 .rst-versions .rst-current-version
 {
 	background-color: #123a6f;
