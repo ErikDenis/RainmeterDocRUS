@@ -1,13 +1,4 @@
 /*		Меню слева									*/
-
-nav.wy-nav-side, .rst-versions,
-.wy-menu-vertical li.toctree-l2 a,
-.wy-menu-vertical li.toctree-l3 a,
-.wy-menu-vertical li.toctree-l4 a
-{
-    width: 320px;
-}
-
 .wy-nav-side .ethical-rtd
 {
 	visibility: hidden;
@@ -17,11 +8,6 @@ nav.wy-nav-side, .rst-versions,
     background: #fcfcfc;
     border: none;
     box-shadow: inset 0 0 12px -5px black;
-}
-
-.wy-side-scroll
-{
-	width: 337px;
 }
 
 .wy-side-nav-search
