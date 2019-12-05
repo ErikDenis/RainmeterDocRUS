@@ -1,6 +1,9 @@
 /*		Меню слева									*/
 
-nav.wy-nav-side, .rst-versions, .wy-menu-vertical li.toctree-l2 a, .wy-menu-vertical li.toctree-l3 a, .wy-menu-vertical li.toctree-l4 a
+nav.wy-nav-side, .rst-versions,
+.wy-menu-vertical li.toctree-l2 a,
+.wy-menu-vertical li.toctree-l3 a,
+.wy-menu-vertical li.toctree-l4 a
 {
     width: 320px;
 }
