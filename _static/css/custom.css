@@ -113,7 +113,9 @@ a .fa, a .wy-menu-vertical li span.toctree-expand, .wy-menu-vertical li a span.t
 {
 	margin: 5px 0 10px 0;
 }
+
 /*		Белый фон (Меню слева)						*/
+
 nav.wy-nav-side,
 .rst-versions,
 .wy-menu-vertical li.toctree-l2 a,
