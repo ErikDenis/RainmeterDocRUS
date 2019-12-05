@@ -10,13 +10,14 @@ nav.wy-nav-side, .rst-versions,
 
 .wy-nav-side .ethical-rtd
 {
-	visibility: hidden;
+	/* visibility: hidden; */
+	width: 320px;
 }
 
 .ethical-dark-theme .ethical-sidebar {
     background-color: #fcfcfc;
     border: none;
-    box-shadow: inset 0 0 10px -4px black;
+    box-shadow: inset 0 0 12px -5px black;
 }
 
 .wy-side-scroll
