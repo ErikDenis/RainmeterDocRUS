@@ -161,3 +161,14 @@ nav.wy-nav-side,
 	background: #fcfcfc;
 	border-right: none; 
 }
+
+/*	Таблицы с кодом									*/
+.rst-content div[class^='highlight'] pre
+{
+	padding: 8px;
+}
+.rst-content pre.literal-block, .rst-content div[class^='highlight']
+{
+	border-radius: 5px;
+	background: none;
+}
