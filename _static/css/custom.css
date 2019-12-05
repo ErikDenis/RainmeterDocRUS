@@ -29,6 +29,15 @@ input[type="text"]
 {
 	background: none;
 }
+.wy-menu-vertical ul {
+    margin-left: 8%;
+    border-left: solid 1px gray;
+}
+.wy-menu-vertical li.current ul {
+    display: block;
+    margin-left: 5%;
+    border-left: solid 1px gray;
+}
 
 		/*	Текст секций							*/
 .wy-menu-vertical li.current a:hover
@@ -100,12 +109,13 @@ a .fa, a .wy-menu-vertical li span.toctree-expand, .wy-menu-vertical li a span.t
 {
 	margin: 5px 0 10px 0;
 }
-/*		Белый фон									*/
-nav.wy-nav-side,				/*	Меню (слева)	*/
+/*		Белый фон (Меню слева)						*/
+nav.wy-nav-side,
 .rst-versions,
 .wy-menu-vertical li.toctree-l2 a,
 .wy-menu-vertical li.toctree-l3 a,
 .wy-menu-vertical li.toctree-l4 a
 {
 	background: #fcfcfc;
+	border-right: none; 
 }
