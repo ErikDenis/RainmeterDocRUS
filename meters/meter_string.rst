@@ -3,8 +3,7 @@
 Meter String (Строка)
 ====
 
-```Ini
-[Mas]
-Meter=String
-```
+.. code:: Ini
+
+  Meter=String
 отображает текстовую строку.
