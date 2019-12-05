@@ -9,6 +9,7 @@ Rainmeter Документация на русском!
 	:maxdepth: 1
 	:caption: Оглавление 
 	:name: sec-contents
+	:hidden:
 
 	contents/get_start/index
 
@@ -16,5 +17,6 @@ Rainmeter Документация на русском!
 	:maxdepth: 1
 	:caption: Справочник
 	:name: sec-reference
+	:hidden:
 
 	meters/index
