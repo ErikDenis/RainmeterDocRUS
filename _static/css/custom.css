@@ -24,6 +24,11 @@ input[type="text"]
 	border-radius: 5px;
 }
 
+.wy-nav-top
+{
+ background: #123a6f;
+}
+
 	/*	Древо страниц								*/
 .wy-menu-vertical li.current
 {
@@ -103,10 +108,7 @@ nav.wy-nav-side,				/*	Меню (слева)	*/
 {
 	background: #fcfcfc;
 }
-.wy-nav-top
-{
- background: #123a6f;
-}
+
 
 
 
