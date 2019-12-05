@@ -96,7 +96,7 @@ a .fa, a .wy-menu-vertical li span.toctree-expand, .wy-menu-vertical li a span.t
 	color: white;
 }
 
-.rst-versions .rst-other-versions,
+.rst-versions .rst-other-versions
 {
 	color: #123a6f;
 }
