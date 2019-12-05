@@ -152,4 +152,10 @@ nav.wy-nav-side,				/*	Меню (слева)	*/
 .rst-versions,
 .wy-menu-vertical li.toctree-l2 a,
 .wy-menu-vertical li.toctree-l3 a,
-.wy-
+.wy-menu-vertical li.toctree-l4 a
+{
+	background: #fcfcfc;
+}
+
+
+
