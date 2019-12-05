@@ -39,6 +39,11 @@ input[type="text"]
 {
 	background: none;
 }
+.wy-menu-vertical li.toctree-l2.current>a
+{
+	background: none;
+	text-decoration: underline;
+}
 
 .wy-menu-vertical ul
 {
