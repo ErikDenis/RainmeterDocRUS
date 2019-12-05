@@ -76,59 +76,6 @@ a .fa, a .wy-menu-vertical li span.toctree-expand, .wy-menu-vertical li a span.t
 	padding: 12px 12px 10px 12px;
 	border-radius: 0 10px 0 0;
 }
-.rst-versions .rst-other-versions,
-.wy-nav-top
-{
-	color: #123a6f;
-}
-.rst-versions .rst-other-versions dd a
-{
-	color: #404040;
-}
-.wy-menu-vertical header,
-.wy-menu-vertical p.caption
-{
-	color: #123a6ff0;
-}
-.rst-versions .rst-other-versions hr
-{
-	margin: 5px 0 10px 0;
-}
-/*		Белый фон									*/
-nav.wy-nav-side,				/*	Меню (слева)	*/
-.rst-versions,
-.wy-menu-vertical li.toctree-l2 a,
-.wy-menu-vertical li.toctree-l3 a,
-.wy-menu-vertical li.toctree-l4 a
-{
-	background: #fcfcfc;
-}
-
-
-
-
-
-
-ntent: "►";}
-.fa-minus-square-o:before, .wy-menu-vertical li.on a span.toctree-expand:before, .wy-menu-vertical li.current>a span.toctree-expand:before
-{content: "▼";}
-
-	/*	Нижняя фигня (которая вылезает)				*/
-.rst-versions.shift-up .rst-other-versions
-{
-	background: rgb(239, 239, 239);
-}
-.rst-versions.shift-up
-{
-	border-radius: 0 10px 0 0;
-	overflow-y: hidden;
-}
-.rst-versions .rst-current-version
-{
-	background-color: #123a6f;
-	padding: 12px 12px 10px 12px;
-	border-radius: 0 10px 0 0;
-}
 
 .wy-nav-top
 {
@@ -162,6 +109,3 @@ nav.wy-nav-side,				/*	Меню (слева)	*/
 {
 	background: #fcfcfc;
 }
-
-
-
