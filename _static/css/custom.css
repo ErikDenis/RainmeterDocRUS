@@ -39,6 +39,7 @@ input[type="text"]
 {
 	background: none;
 }
+
 .wy-menu-vertical li.toctree-l2.current>a
 {
 	background: none;
@@ -129,15 +130,18 @@ nav.wy-nav-side, .rst-versions, .wy-menu-vertical li.toctree-l2 a, .wy-menu-vert
 {
 	color: #123a6f;
 }
+
 .rst-versions .rst-other-versions dd a
 {
 	color: #404040;
 }
+
 .wy-menu-vertical header,
 .wy-menu-vertical p.caption
 {
 	color: #123a6ff0;
 }
+
 .rst-versions .rst-other-versions hr
 {
 	margin: 5px 0 10px 0;
@@ -160,6 +164,7 @@ nav.wy-nav-side,
 {
 	padding: 8px;
 }
+
 .rst-content pre.literal-block,
 .rst-content div[class^='highlight']
 {
