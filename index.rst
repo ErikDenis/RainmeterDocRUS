@@ -1,22 +1,30 @@
-Rainmeter Документация на русском!
+Meters
 ====
 
-Здрасте. Это документация по программе "`Rainmeter <https://rainmeter.net>`_" последней версии *(4.3.1)*. Она была переведена, дополнена и перефразирована с `официальной документации <https://docs.rainmeter.net/manual>`_
+Meter - обьект, отвечающий за визуальную составляющую `скина <../skins/index.html#>`_, стоит на ряду вместе с `measures <../measures/index.html#>`_.
 
-Для начала работы с программой ознакомтесь со статьёй `Начало Работы <contents/get_start/index.html>`_
+Использование
+----
+
+Meter не имеет "`значения <https://ссылка>`_", как их имеют measures. Некоторые meters могут отображать и отвечать на информационные значения двумя способами:
+
+*123
+*321
+
+#123
+#321
 
 .. toctree::
-	:maxdepth: 1
-	:caption: Оглавление 
-	:name: sec-contents
-	:hidden:
+	:maxdepth:2
+	:name:toc-meters
 
-	contents/get_start/index
-
-.. toctree::
-	:maxdepth: 1
-	:caption: Справочник
-	:name: sec-reference
-	:hidden:
-
-	reference/meters/index
+	-
+	-
+	-
+	-
+	meter_image
+	-
+	-
+	-
+	-
+	meter_string
