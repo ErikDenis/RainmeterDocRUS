@@ -19,4 +19,4 @@ Rainmeter Документация на русском!
 	:name: sec-reference
 	:hidden:
 
-	referense/meters/index
+	reference/meters/index
