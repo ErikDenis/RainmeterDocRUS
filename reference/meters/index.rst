@@ -39,6 +39,8 @@ Meter записывается как раздел в скине. Все meters 
 
 	[MeterSectionName]
 	Meter=String
-	Text="Привет, я строка текста!"
+	Text=Привет, я строка текста!
 	
-.
+.. image:: img/format.png
+	:height: 100px
+	:align: center
