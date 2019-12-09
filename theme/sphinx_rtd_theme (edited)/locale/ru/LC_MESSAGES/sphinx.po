@@ -26,7 +26,7 @@ msgstr ""
 
 #: sphinx_rtd_theme/breadcrumbs.html:43 sphinx_rtd_theme/breadcrumbs.html:45
 msgid "Edit on GitHub"
-msgstr ""
+msgstr "Ред. на GitHub"
 
 #: sphinx_rtd_theme/breadcrumbs.html:50 sphinx_rtd_theme/breadcrumbs.html:52
 msgid "Edit on Bitbucket"
@@ -42,11 +42,11 @@ msgstr ""
 
 #: sphinx_rtd_theme/breadcrumbs.html:74 sphinx_rtd_theme/footer.html:5
 msgid "Next"
-msgstr ""
+msgstr "Далее"
 
 #: sphinx_rtd_theme/breadcrumbs.html:77 sphinx_rtd_theme/footer.html:8
 msgid "Previous"
-msgstr ""
+msgstr "Назад"
 
 #: sphinx_rtd_theme/footer.html:21 sphinx_rtd_theme/footer.html:24
 #: sphinx_rtd_theme/layout.html:92
@@ -96,7 +96,7 @@ msgstr ""
 
 #: sphinx_rtd_theme/layout.html:89 sphinx_rtd_theme/search.html:11
 msgid "Search"
-msgstr ""
+msgstr "Поиск"
 
 #: sphinx_rtd_theme/layout.html:124
 msgid "Logo"
@@ -119,7 +119,7 @@ msgstr ""
 
 #: sphinx_rtd_theme/searchbox.html:4
 msgid "Search docs"
-msgstr ""
+msgstr "Поиск"
 
 #: sphinx_rtd_theme/versions.html:11
 msgid "Versions"
@@ -132,11 +132,11 @@ msgstr ""
 #. The phrase "Read the Docs" is not translated
 #: sphinx_rtd_theme/versions.html:24
 msgid "On Read the Docs"
-msgstr ""
+msgstr "На Read the Docs"
 
 #: sphinx_rtd_theme/versions.html:26
 msgid "Project Home"
-msgstr ""
+msgstr "Проект"
 
 #: sphinx_rtd_theme/versions.html:29
 msgid "Builds"
