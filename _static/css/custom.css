@@ -172,3 +172,18 @@ nav.wy-nav-side,
 	border-radius: 5px;
 	background: none;
 }
+
+/*	Подсветка синтаксиса							*/
+.highlight .k		/*	Раздел						*/
+{
+	color: #900;
+}
+.highlight .na		/*	Параметр					*/
+{
+    color: #000000;
+    font-weight: bold;
+}
+.highlight .s		/*	Значение параметра			*/
+{
+	color: #050540;
+}
