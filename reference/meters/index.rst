@@ -39,14 +39,8 @@ Meter записывается как раздел в скине. Все meters 
 
 	[MeterSectionName]
 	Meter=String
-	Text=Привет, я строка текста!
-	
+	Text=ривет, я строка текста!
+
 .. image:: img/format.png
 	:height: 100px
 	:align: center
-
-.. topic:: Topic Title
-
-    Subsequent indented lines comprise
-    the body of the topic, and are
-    interpreted as body elements.
