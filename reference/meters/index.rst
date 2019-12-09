@@ -34,7 +34,9 @@ Meter записывается как раздел в скине. Все meters 
 
 Ниже приведён пример полностью рабочего раздела meter:
 
-.. code-block::Ini
+.. code-block:: Ini
+	:linenos:
+
 	[MeterSectionName]
 	Meter=String
 	Text=" Привет, я строка текста!"
