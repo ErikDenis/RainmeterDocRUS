@@ -39,6 +39,6 @@ Meter записывается как раздел в скине. Все meters 
 
 	[MeterSectionName]
 	Meter=String
-	Text=" Привет, я строка текста!"
+	Text="Привет, я строка текста!"
 	
 .
