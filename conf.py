@@ -104,9 +104,17 @@ highlight_language = 'ini'
 # The theme to use for HTML and HTML Help pages.  See the documentation for
 # a list of builtin themes.
 import sphinx_rtd_theme
-html_theme = 'sphinx_rtd_theme'
-html_theme_path = [sphinx_rtd_theme.get_html_theme_path()]
+html_theme = 'theme'
+html_theme_path = ['_static']
 using_rtd_theme = True
+
+extensions = [
+    'sphinx.ext.intersphinx',
+    'sphinx.ext.autodoc',
+    'sphinx.ext.mathjax',
+    'sphinx.ext.viewcode',
+    'sphinx_rtd_theme',
+]
 
 html_context = {
   # "display_github": not is_i18n, # Integrate GitHub
