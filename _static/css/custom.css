@@ -187,3 +187,10 @@ nav.wy-nav-side,
 {
 	color: #050540;
 }
+
+/*	Заголовки										*/
+h1, h2, h3, h4, h5, h6, legend,
+.rst-content .toctree-wrapper p.caption
+{
+	color: #123a6f;
+}
