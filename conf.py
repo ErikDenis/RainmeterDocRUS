@@ -105,7 +105,7 @@ highlight_language = 'ini'
 # a list of builtin themes.
 import sphinx_rtd_theme
 html_theme = 'sphinx_rtd_theme (edited)'
-html_theme_path = ['sphinx_rtd_theme (edited)']
+# html_theme_path = []
 using_rtd_theme = True
 
 html_context = {
