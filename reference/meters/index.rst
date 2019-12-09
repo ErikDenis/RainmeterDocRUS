@@ -42,5 +42,4 @@ Meter записывается как раздел в скине. Все meters 
 	Text=Привет, я строка текста!
 
 .. image:: img/format.png
-	:height: 110px
 	:align: center
