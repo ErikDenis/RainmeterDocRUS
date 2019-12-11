@@ -1,0 +1,28 @@
+#: sphinx_rtd_theme/breadcrumbs.html:43 sphinx_rtd_theme/breadcrumbs.html:45
+msgid "Edit on GitHub"
+msgstr "Изменить на GitHub"
+
+#: sphinx_rtd_theme/breadcrumbs.html:74 sphinx_rtd_theme/footer.html:5
+msgid "Next"
+msgstr "След."
+
+#: sphinx_rtd_theme/breadcrumbs.html:77 sphinx_rtd_theme/footer.html:8
+msgid "Previous"
+msgstr "Пред."
+
+#: sphinx_rtd_theme/layout.html:89 sphinx_rtd_theme/search.html:11
+msgid "Search"
+msgstr "Поиск"
+
+#: sphinx_rtd_theme/searchbox.html:4
+msgid "Поиск"
+msgstr ""
+
+#. The phrase "Read the Docs" is not translated
+#: sphinx_rtd_theme/versions.html:24
+msgid "On Read the Docs"
+msgstr "На Read the Docs"
+
+#: sphinx_rtd_theme/versions.html:26
+msgid "Project Home"
+msgstr "Проект"
