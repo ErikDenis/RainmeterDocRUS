@@ -29,7 +29,7 @@ import os
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
 sys.path.append(os.path.abspath('extensions'))
-extensions = ['sphinx_tabs.tabs', 'sphinx.ext.imgmath']
+extensions = ['sphinx_tabs.tabs']
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
@@ -87,8 +87,8 @@ exclude_patterns = ['_build']
 #show_authors = False
 
 # The name of the Pygments (syntax highlighting) style to use.
-pygments_style = 'sphinx'
-highlight_language = 'ini'
+# pygments_style = 'sphinx'
+# highlight_language = 'ini'
 
 # A list of ignored prefixes for module index sorting.
 #modindex_common_prefix = []
@@ -113,7 +113,7 @@ html_context = {
   # "display_github": not is_i18n, # Integrate GitHub
   "github_user": "ErikDenis", # Username
   "github_repo": "RainmeterDocRus", # Repo name
-  "github_version": "master", # Version
+  "github_version": "4.3.1", # Version
   "conf_py_path": "/", # Path in the checkout to the docs root
 }
 
@@ -203,7 +203,7 @@ html_css_files = ['css/custom.css']
 #html_file_suffix = None
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'ruRainmeterdoc'
+htmlhelp_basename = 'ruRainmeterDoc'
 
 
 # -- Options for LaTeX output ---------------------------------------------
@@ -222,10 +222,10 @@ latex_elements = {
 # Grouping the document tree into LaTeX files. List of tuples
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
-latex_documents = [
-  ('index', 'RainmeterDoc.tex', 'Russian Rainmeter Documentation',
-   'Rainmeter (translate by ErikDenis)', 'manual'),
-]
+# latex_documents = [
+#   ('index', 'RainmeterDoc.tex', 'Russian Rainmeter Documentation',
+#    'Rainmeter (translate by ErikDenis)', 'manual'),
+# ]
 
 # The name of an image file (relative to this directory) to place at the top of
 # the title page.
