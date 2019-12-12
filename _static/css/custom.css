@@ -156,8 +156,8 @@ nav.wy-nav-side,
 .wy-menu-vertical li.toctree-l3 a,
 .wy-menu-vertical li.toctree-l4 a
 {
-	background: #fcfcfc;
-	border-right: none; 
+	/* background: #fcfcfc;
+	border-right: none;  */
 }
 
 /*	Таблицы с кодом									*/
