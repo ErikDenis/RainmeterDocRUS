@@ -44,6 +44,8 @@ Meter записывается как `раздел в скине <ссылка>
 
 .. figure:: img/format.png
 	:align: center
+	:height: 150px
+	:width: auto
 
 Позиционирование
 ++++
