@@ -170,11 +170,11 @@ nav.wy-nav-side, .rst-versions, .wy-menu-vertical li.toctree-l2 a, .wy-menu-vert
 }
 
 /*	Заголовки										*/
-h1, h2, h3, h4, h5, h6, legend,
+/* h1, h2, h3, h4, h5, h6, legend,
 .rst-content .toctree-wrapper p.caption
 {
 	color: #123a6f;
-}
+} */
 
 /*	Картинки										*/
 /* .rst-content div.figure
