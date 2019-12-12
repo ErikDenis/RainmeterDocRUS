@@ -92,7 +92,7 @@ nav.wy-nav-side, .rst-versions, .wy-menu-vertical li.toctree-l2 a, .wy-menu-vert
 } */
 
 	/*	Нижняя фигня (которая вылезает)				*/
-.rst-versions.shift-up .rst-other-versions
+/* .rst-versions.shift-up .rst-other-versions
 {
 	background: rgb(239, 239, 239);
 }
@@ -128,7 +128,7 @@ nav.wy-nav-side, .rst-versions, .wy-menu-vertical li.toctree-l2 a, .wy-menu-vert
 .rst-versions .rst-other-versions hr
 {
 	margin: 5px 0 10px 0;
-}
+} */
 
 /*		Белый фон (Меню слева)						*/
 /* nav.wy-nav-side,
