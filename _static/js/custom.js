@@ -1,8 +1,8 @@
-if (('#rst-content img element.style').height() >= '150px')
+if (('#reference internal image-reference img').style.height() >= '150px')
 {
-    ('#rst-content img element.style').width() = 'auto';
+    ('#reference internal image-reference img').style.width() = 'auto';
 }
 else
 {
-    ('#rst-content img element.style').width() = '100%';
+    ('#reference internal image-reference img').style.width() = '100%';
 }
