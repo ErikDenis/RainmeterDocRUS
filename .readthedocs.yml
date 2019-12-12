@@ -1,10 +1,23 @@
-# Reference: https://docs.readthedocs.io/en/latest/yaml-config.html
+# .readthedocs.yml
+# Read the Docs configuration file
+# See https://docs.readthedocs.io/en/stable/config-file/v2.html for details
 
-build:
-  image: latest
+# Required
+# version: 2
 
-# Possible options: htmlzip, pdf, epub
-# Disable (single) htmlzip as it's way too big to be useful,
-# and leads to excessive memory usage on build
-# Disable epub and pdf for now to speed up builds
+# Build documentation in the docs/ directory with Sphinx
+sphinx:
+  configuration: conf.py
+
+# Build documentation with MkDocs
+#mkdocs:
+#  configuration: mkdocs.yml
+
+# Optionally build your docs in additional formats such as PDF and ePub
 formats: []
+
+# Optionally set the version of Python and requirements required to build your docs
+python:
+  version: 3.7
+  install:
+    - requirements: requirements.txt
