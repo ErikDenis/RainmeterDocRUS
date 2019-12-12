@@ -143,7 +143,7 @@ nav.wy-nav-side, .rst-versions, .wy-menu-vertical li.toctree-l2 a, .wy-menu-vert
 } */
 
 /*	Таблицы с кодом									*/
-.rst-content div[class^='highlight'] pre
+/* .rst-content div[class^='highlight'] pre
 {
 	padding: 8px;
 }
@@ -152,22 +152,22 @@ nav.wy-nav-side, .rst-versions, .wy-menu-vertical li.toctree-l2 a, .wy-menu-vert
 {
 	border-radius: 5px;
 	background: none;
-}
+} */
 
 /*	Подсветка синтаксиса							*/
-.highlight .k		/*	Раздел						*/
+/* .highlight .k
 {
 	color: #900;
 }
-.highlight .na		/*	Параметр					*/
+.highlight .na
 {
     color: #000000;
     font-weight: bold;
 }
-.highlight .s		/*	Значение параметра			*/
+.highlight .s
 {
 	color: #050540;
-}
+} */
 
 /*	Заголовки										*/
 /* h1, h2, h3, h4, h5, h6, legend,
