@@ -113,7 +113,7 @@ html_context = {
   # "display_github": not is_i18n, # Integrate GitHub
   "github_user": "ErikDenis", # Username
   "github_repo": "RainmeterDocRus", # Repo name
-  "github_version": "4.3.1", # Version
+  # "github_version": "4.3.1", # Version
   "conf_py_path": "/", # Path in the checkout to the docs root
 }
 
@@ -222,10 +222,10 @@ latex_elements = {
 # Grouping the document tree into LaTeX files. List of tuples
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
-# latex_documents = [
-#   ('index', 'RainmeterDoc.tex', 'Russian Rainmeter Documentation',
-#    'Rainmeter (translate by ErikDenis)', 'manual'),
-# ]
+latex_documents = [
+  ('index', 'RainmeterDoc.tex', 'Russian Rainmeter Documentation',
+   'Rainmeter (translate by ErikDenis)', 'manual'),
+]
 
 # The name of an image file (relative to this directory) to place at the top of
 # the title page.

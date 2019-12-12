@@ -1,5 +1,5 @@
 /*		Меню слева									*/
-/* .wy-nav-side .ethical-rtd
+.wy-nav-side .ethical-rtd
 {
 	visibility: hidden;
 }
@@ -12,16 +12,16 @@
 .wy-side-nav-search
 {
 	border-radius: 0 0 10px;
-} */
+}
 
 /*	Лого картинка-кнопка							*/
-/* .wy-side-nav-search>a img.logo
+.wy-side-nav-search>a img.logo
 {
 	margin: -5px auto -10px;
-} */
+}
 
 	/*	Поиск										*/
-/* .wy-side-nav-search input[type=text]
+.wy-side-nav-search input[type=text]
 {
 	border-radius: 5px;
 	border-color: white;
@@ -30,10 +30,10 @@ input[type="text"]
 {
 	box-shadow: none;
 	border-radius: 5px;
-} */
+}
 
 	/*	Древо страниц								*/
-/* .wy-menu-vertical li.current
+.wy-menu-vertical li.current
 {
 	background: none;
 }
@@ -53,10 +53,10 @@ input[type="text"]
     display: block;
     margin-left: 5%;
     border-left: solid 1px gray;
-} */
+}
 
 	/*	Текст секций								*/
-/* .wy-menu-vertical li.current a:hover
+.wy-menu-vertical li.current a:hover
 {
 	background: #fcfcfc;
 }
@@ -79,9 +79,8 @@ input[type="text"]
 	border-top: none;
 	border-bottom: none ;
 	color: #123a6f;
-	border-left: solid 2px #123a6f; 
-}*/
-
+	border-left: solid 2px #123a6f;
+}
 /* a .fa, a .wy-menu-vertical li span.toctree-expand, .wy-menu-vertical li a span.toctree-expand, .wy-menu-vertical li.on a span.toctree-expand, .wy-menu-vertical li.current>a span.toctree-expand, a .rst-content .admonition-title, .rst-content a .admonition-title, a .rst-content h1 .headerlink, .rst-content h1 a .headerlink, a .rst-content h2 .headerlink, .rst-content h2 a .headerlink, a .rst-content h3 .headerlink, .rst-content h3 a .headerlink, a .rst-content h4 .headerlink, .rst-content h4 a .headerlink, a .rst-content h5 .headerlink, .rst-content h5 a .headerlink, a .rst-content h6 .headerlink, .rst-content h6 a .headerlink, a .rst-content dl dt .headerlink, .rst-content dl dt a .headerlink, a .rst-content p.caption .headerlink, .rst-content p.caption a .headerlink, a .rst-content table>caption .headerlink, .rst-content table>caption a .headerlink, a .rst-content .code-block-caption .headerlink, .rst-content .code-block-caption a .headerlink, a .rst-content tt.download span:first-child, .rst-content tt.download a span:first-child, a .rst-content code.download span:first-child, .rst-content code.download a span:first-child, a .icon
 {
 	text-decoration: none;
@@ -93,7 +92,7 @@ nav.wy-nav-side, .rst-versions, .wy-menu-vertical li.toctree-l2 a, .wy-menu-vert
 } */
 
 	/*	Нижняя фигня (которая вылезает)				*/
-/* .rst-versions.shift-up .rst-other-versions
+.rst-versions.shift-up .rst-other-versions
 {
 	background: rgb(239, 239, 239);
 }
@@ -129,10 +128,10 @@ nav.wy-nav-side, .rst-versions, .wy-menu-vertical li.toctree-l2 a, .wy-menu-vert
 .rst-versions .rst-other-versions hr
 {
 	margin: 5px 0 10px 0;
-} */
+}
 
 /*		Белый фон (Меню слева)						*/
-/* nav.wy-nav-side,
+nav.wy-nav-side,
 .rst-versions,
 .wy-menu-vertical li.toctree-l2 a,
 .wy-menu-vertical li.toctree-l3 a,
@@ -140,10 +139,10 @@ nav.wy-nav-side, .rst-versions, .wy-menu-vertical li.toctree-l2 a, .wy-menu-vert
 {
 	background: #fcfcfc;
 	border-right: none; 
-} */
+}
 
 /*	Таблицы с кодом									*/
-/* .rst-content div[class^='highlight'] pre
+.rst-content div[class^='highlight'] pre
 {
 	padding: 8px;
 }
@@ -152,48 +151,48 @@ nav.wy-nav-side, .rst-versions, .wy-menu-vertical li.toctree-l2 a, .wy-menu-vert
 {
 	border-radius: 5px;
 	background: none;
-} */
+}
 
 /*	Подсветка синтаксиса							*/
-/* .highlight .k
+.highlight .k		/*	Раздел						*/
 {
 	color: #900;
 }
-.highlight .na
+.highlight .na		/*	Параметр					*/
 {
     color: #000000;
     font-weight: bold;
 }
-.highlight .s
+.highlight .s		/*	Значение параметра			*/
 {
 	color: #050540;
-} */
+}
 
 /*	Заголовки										*/
-/* h1, h2, h3, h4, h5, h6, legend,
+h1, h2, h3, h4, h5, h6, legend,
 .rst-content .toctree-wrapper p.caption
 {
 	color: #123a6f;
-} */
+}
 
 /*	Картинки										*/
-/* .rst-content div.figure
+.rst-content div.figure
 {
 	border-radius: 10px;
 	box-shadow: 0 0 5px -2px;
     padding: 2% 2% 0;
-} */
+}
 	/*	Картинки (только)							*/
-/* .rst-content img
+.rst-content img
 {
 	border-radius: 5px;
-} */
+}
 
 	/*	Текст										*/
-/* .rst-content div.figure p.caption
+.rst-content div.figure p.caption
 {
 	font-size: 85%;
 	padding: 2% 0 0;
 	line-height: 1.3;
 	margin: 0;
-} */
+}
