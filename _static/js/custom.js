@@ -6,4 +6,4 @@
 // {
 //     ('#reference internal image-reference img').style.width() = '100%';
 // }
-('#rst-content img').height = '5px';
+document.getElementById('.rst-content img').style.height = '5px';
