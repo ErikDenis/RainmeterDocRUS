@@ -194,3 +194,24 @@ h1, h2, h3, h4, h5, h6, legend,
 {
 	color: #123a6f;
 }
+
+/*	Картинки										*/
+.rst-content div.figure.align-center
+{
+	border-radius: 10px;
+	box-shadow: 0 0 5px -2px;
+    padding: 2% 2% 0;
+}
+	/*	Картинки (только)							*/
+.rst-content img
+{
+	border-radius: 5px;
+}
+	/*	Текст										*/
+.rst-content div.figure p.caption
+{
+	font-size: 85%;
+	padding: 2% 0 0;
+	line-height: 1.3;
+	margin: 0;
+}
