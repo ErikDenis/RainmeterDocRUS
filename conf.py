@@ -113,7 +113,7 @@ html_context = {
   # "display_github": not is_i18n, # Integrate GitHub
   "github_user": "ErikDenis", # Username
   "github_repo": "RainmeterDocRus", # Repo name
-  # "github_version": "4.3.1", # Version
+  "github_version": "master", # Version
   "conf_py_path": "/", # Path in the checkout to the docs root
 }
 
