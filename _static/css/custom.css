@@ -1,5 +1,5 @@
 /*		Меню слева									*/
-.wy-nav-side .ethical-rtd
+/* .wy-nav-side .ethical-rtd
 {
 	visibility: hidden;
 }
@@ -12,16 +12,16 @@
 .wy-side-nav-search
 {
 	border-radius: 0 0 10px;
-}
+} */
 
 /*	Лого картинка-кнопка							*/
-.wy-side-nav-search>a img.logo
+/* .wy-side-nav-search>a img.logo
 {
 	margin: -5px auto -10px;
-}
+} */
 
 	/*	Поиск										*/
-.wy-side-nav-search input[type=text]
+/* .wy-side-nav-search input[type=text]
 {
 	border-radius: 5px;
 	border-color: white;
@@ -30,10 +30,10 @@ input[type="text"]
 {
 	box-shadow: none;
 	border-radius: 5px;
-}
+} */
 
 	/*	Древо страниц								*/
-.wy-menu-vertical li.current
+/* .wy-menu-vertical li.current
 {
 	background: none;
 }
@@ -53,7 +53,7 @@ input[type="text"]
     display: block;
     margin-left: 5%;
     border-left: solid 1px gray;
-}
+} */
 
 	/*	Текст секций								*/
 /* .wy-menu-vertical li.current a:hover
