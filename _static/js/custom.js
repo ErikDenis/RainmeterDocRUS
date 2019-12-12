@@ -1,9 +1,10 @@
-// if (('#reference internal image-reference img').style.height() >= '150px')
-// {
-//     ('#reference internal image-reference img').style.width() = 'auto';
-// }
-// else
-// {
-//     ('#reference internal image-reference img').style.width() = '100%';
-// }
-document.getElementById('.rst-content img').style.height = '5px';
+const clName = document.getElementsByClassName;
+
+if (clName('.rst-content img').style.height >= '150px')
+{
+    clName('.rst-content img').style.width = 'auto';
+}
+else
+{
+    clName('.rst-content img').style.width = '100%';
+}
