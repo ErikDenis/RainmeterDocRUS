@@ -1,4 +1,4 @@
-if (('#rst-content img element.style').height() >= 150)
+if (('#rst-content img element.style').height() >= '150px')
 {
     ('#rst-content img element.style').width() = 'auto';
 }
