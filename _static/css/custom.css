@@ -180,7 +180,11 @@ h1, h2
 }
 h3, h4, h5, h6
 {
-	color: gray;
+	color: #909090;
+}
+p
+{
+	font-weight: 350;
 }
 
 /*	Картинки										*/
