@@ -111,6 +111,12 @@ nav.wy-nav-side, .rst-versions, .wy-menu-vertical li.toctree-l2 a, .wy-menu-vert
 {
 	background: #123a6f;
 	color: white;
+	height: 55px;
+}
+.wy-nav-top i
+{
+	font-size: 25px;
+	padding: 2%;
 }
 .rst-versions .rst-other-versions
 {
@@ -175,7 +181,7 @@ h1, h2, h3, h4, h5, h6
 }
 h1, h2
 {
-    font-weight: 350;
+    font-weight: 400;
 	color: #123a6f;
 }
 h3, h4, h5, h6
