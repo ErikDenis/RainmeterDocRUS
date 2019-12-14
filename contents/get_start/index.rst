@@ -24,7 +24,8 @@
 
 Что такое скин?
 ----
-*"картинка*"
+
+.. figure:: https://docs.rainmeter.net/manual/img/getting-started/index-skins.png
 
 	Некоторые скины Rainmeter.
 
