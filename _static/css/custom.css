@@ -169,13 +169,17 @@ nav.wy-nav-side,
 }
 
 /*	Заголовки										*/
+h1, h2, h3, h4, h5, h6
+{
+	font-style: normal;
+}
 h1, h2
 {
 	color: #123a6f;
 }
 h3, h4, h5, h6
 {
-	color: rgb(200,200,200);
+	color: gray;
 }
 
 /*	Картинки										*/
