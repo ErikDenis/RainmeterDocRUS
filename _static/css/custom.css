@@ -171,8 +171,8 @@ nav.wy-nav-side,
 /*	Заголовки										*/
 h1, h2, h3, h4, h5, h6
 {
-	font-weight: 300;
-	font-family: "Roboto";
+	font-weight: 450;
+    font-family: Calibri;
 }
 h1, h2
 {
@@ -180,11 +180,12 @@ h1, h2
 }
 h3, h4, h5, h6
 {
-	color: #909090;
+	color: #606060;
 }
+.rst-content .section ul,
 p
 {
-	font-weight: 350;
+	font-size: 95%;
 }
 
 /*	Картинки										*/
