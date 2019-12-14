@@ -118,6 +118,10 @@ nav.wy-nav-side, .rst-versions, .wy-menu-vertical li.toctree-l2 a, .wy-menu-vert
 	font-size: 25px;
 	padding: 2%;
 }
+.wy-nav-top a
+{
+	margin-left: -6%;
+}
 .rst-versions .rst-other-versions
 {
 	color: #123a6f;
