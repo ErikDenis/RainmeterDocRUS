@@ -1,7 +1,7 @@
 Meters
 ====
 
-Meter - обьект, отвечающий за визуальную составляющую `скина <../skins/index.html>`_, стоит на ряду вместе с `measures <../measures/index.html>`_.
+**Meter** - обьект, отвечающий за визуальную составляющую `скина <../skins/index.html>`_. Вместе с `measures <../measures/index.html>`_ являются двумя составляющими скина.
 
 .. toctree::
 	:maxdepth:2
